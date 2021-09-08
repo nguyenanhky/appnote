@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppNotes</string>
+    <string name="note_title">Note Title</string>
+    <string name="type_note_here">type note here</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">có chắc chắn muốn xóa ghi chú này không ?</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">Gửi mật khẩu một lần đến số điện thoại này</string>
+    <string name="enter_mobile_number">nhập số điện thoại di động</string>
+    <string name="_328220112">328220112</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_send_to">Nhập mã OTP gửi đến</string>
+    <string name="did_is_not_receive_the_otp">Không nhận được OTP</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Kiểm chứng</string>
+</resources>

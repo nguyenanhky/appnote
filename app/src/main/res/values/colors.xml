@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    mau tu dinh nghia-->
+    <color name="colorPrimary">#292929</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#FDBE3B</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colorSearchIcon">#DBDBDB</color>
+    <color name="colorTextHint">#7B7B7B</color>
+    <color name="ColorQuickActionsBackground">#2F2D2E</color>
+    <color name="colorIcons">#A4A4A4</color>
+    <color name="colorTextSubtitle">#CECECE</color>
+    <color name="colorDefaultNoteColor">#333333</color>
+    <color name="colorNoteSubtitleText">#FAFAFA</color>
+    <color name="colorMisscellaneousBackground">#1F1F1F</color>
+    <color name="colorNotecolor2">#FDBE3B</color>
+    <color name="colorNotecolor3">#FF4842</color>
+    <color name="colorNotecolor4">#3A52Fc</color>
+    <color name="colorNotecolor5">#000000</color>
+    <color name="colorDelete">#FF4842</color>
+    <color name="colorSearchBackgrond">#333333</color>
+<!--    phan xu ly authentication -->
+    <color name="colorPrimary1">#536DEF</color>
+    <color name="colorPrimaryDark1">#536DEF</color>
+    <color name="colorAccent1">#F44336</color>
+    <color name="colorTextPrimary"> #212121</color>
+    <color name="colorTextSecoundary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+
+</resources>
